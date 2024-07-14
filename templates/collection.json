@@ -1,3 +1,12 @@
+/*
+* ------------------------------------------------------------
+* IMPORTANT: The contents of this file are auto-generated.
+*
+* This file may be updated by the Shopify admin theme editor
+* or related systems. Please exercise caution as any changes
+* made to this file may be overwritten.
+* ------------------------------------------------------------
+*/
 {
   "sections": {
     "main-collection-banner": {
@@ -10,8 +19,9 @@
         "show_collection_description": true,
         "show_subcollections": false,
         "make_heading_uppercase": true,
+        "image": "shopify:\/\/shop_images\/41G7fJ4JlYL._AC_SY550.jpg",
         "overlay_color": "#000000",
-        "overlay_opacity": 40
+        "overlay_opacity": 44
       }
     },
     "product-grid": {
@@ -24,7 +34,6 @@
             "promotion_collection": "",
             "promotion_position": 1,
             "promotion_width": "1",
-            "image": "shopify:\/\/shop_images\/4ses_5d8af7d9-9f67-4c3c-838a-89d0efb863a3.png",
             "title": "New Collections 2024",
             "text": "",
             "link_label": "Shop now",
@@ -97,7 +106,6 @@
       "disabled": true,
       "settings": {
         "section_width": "grid",
-        "image": "shopify:\/\/shop_images\/mr-autthaporn-pradidpong-2MZwPQ2EMik-unsplash.jpg",
         "image_parallax": true,
         "desktop_height": "desktop-height-650",
         "mobile_height": "mobile-height-500",
