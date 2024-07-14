@@ -17,7 +17,7 @@
       "settings": {
         "show_collection_image": false,
         "show_collection_description": true,
-        "show_subcollections": false,
+        "show_subcollections": true,
         "make_heading_uppercase": true,
         "image": "shopify:\/\/shop_images\/41G7fJ4JlYL._AC_SY550.jpg",
         "overlay_color": "#000000",
