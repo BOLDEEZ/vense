@@ -35,6 +35,7 @@
     },
     "main": {
       "type": "main-404",
+      "disabled": true,
       "settings": {
       }
     }
