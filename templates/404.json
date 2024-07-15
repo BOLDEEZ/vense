@@ -14,15 +14,15 @@
       "settings": {
         "heading": "Shop by Category",
         "heading_left": false,
-        "description": "<p>Add a short description for your collections<\/p>",
+        "description": "",
         "full_width": true,
         "collection_list": [
           "men",
           "women"
         ],
-        "image_ratio": "square",
+        "image_ratio": "adapt",
         "layout": "carousel",
-        "style": "style1",
+        "style": "style2",
         "columns_desktop": 4,
         "columns_mobile": "1",
         "show_progress_bar": true,
